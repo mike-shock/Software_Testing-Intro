@@ -1,4 +1,4 @@
-# Software_Testing-Intro
-Introduction to software testing. [In the Russian language]
+# Introduction to software Еesting
+[In the Russian language]
 
 # Основы тестирования программного обеспечения
